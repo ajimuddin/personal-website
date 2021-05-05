@@ -233,4 +233,13 @@ input[type=text], select, textarea {
       font-family: 'Roboto';
       font-size: 35px;
   }
+  footer{
+    text-align: center;
+  }
+
+  footer h6{
+      font-family: 'Roboto';
+      font-size: 15px;
+      
+  }
 
